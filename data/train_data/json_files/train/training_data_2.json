@@ -1,0 +1,1367 @@
+[
+  {
+    "text": "steam coal - one hundred (100) metric tons of steam coal is being exported from bangladesh to nepal at a rate of fifty us dollars ($50) per metric ton.",
+    "id": 149,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "steam coal",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "text": "metric tons",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "100",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 56,
+        "text": "steam coal",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 90,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 99,
+        "text": "nepal",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "text": "$",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 129,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 150,
+        "text": "metric ton",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 134,
+        "text": "50",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "text": "$",
+        "labels": [
+          "currency"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2023-02-06T02:29:14.038621Z",
+    "updated_at": "2023-02-06T02:31:50.716617Z",
+    "lead_time": 99.479
+  },
+  {
+    "text": "gold - five (5) kilograms of gold is being exported from australia to pakistan at a rate of forty-five thousand us dollars (usd 45,000) per kilogram.",
+    "id": 150,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "gold",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": "5",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 11,
+        "text": "five",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "text": "kilograms",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "gold",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "text": "australia",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "text": "pakistan",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 134,
+        "text": "45,000",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 148,
+        "text": "kilogram",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 122,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2023-02-06T02:31:29.411418Z",
+    "updated_at": "2023-02-06T02:31:29.411529Z",
+    "lead_time": 133.113
+  },
+  {
+    "text": "silver - twenty (20) kilograms of silver is being exported from nepal to bangladesh at a rate of nine hundred us dollars (usd 900) per kilogram.",
+    "id": 151,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "silver",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "text": "twenty",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "20",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "text": "kilograms",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "text": "silver",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 69,
+        "text": "nepal",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 120,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 125,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 129,
+        "text": "900",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 135,
+        "end": 143,
+        "text": "kilogram",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2023-02-06T02:32:23.612641Z",
+    "updated_at": "2023-02-06T02:32:23.612751Z",
+    "lead_time": 31.354
+  },
+  {
+    "text": "paracetamol - one thousand (1000) bottles of paracetamol are being exported from bangladesh to hong kong at a rate of two us dollars (usd 2) per bottle.",
+    "id": 152,
+    "label": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "paracetamol",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "1000",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "text": "bottles",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "text": "paracetamol",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 91,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 104,
+        "text": "hong kong",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 132,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 137,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 138,
+        "end": 139,
+        "text": "2",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 145,
+        "end": 151,
+        "text": "bottle",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2023-02-06T02:34:56.291678Z",
+    "updated_at": "2023-02-06T02:34:56.291796Z",
+    "lead_time": 150.893
+  },
+  {
+    "text": "glass - five hundred (500) square meters of glass is being exported from pakistan to australia at a rate of ten us dollars (usd 10) per square meter.",
+    "id": 153,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "glass",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "500",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 40,
+        "text": "square meters",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 49,
+        "text": "glass",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 81,
+        "text": "pakistan",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 94,
+        "text": "australia",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 122,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 130,
+        "text": "10",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 136,
+        "end": 148,
+        "text": "square meter",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2023-02-06T02:36:57.004637Z",
+    "updated_at": "2023-02-06T02:36:57.004760Z",
+    "lead_time": 52.818
+  },
+  {
+    "text": "internet - a monthly internet package of fifty (50) gigabytes is being exported from hong kong to bangladesh at a rate of one hundred us dollars (usd 100) per month.",
+    "id": 154,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "internet",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "text": "internet",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "50",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 61,
+        "text": "gigabytes",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 94,
+        "text": "hong kong",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 108,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 149,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 144,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 153,
+        "text": "100",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 159,
+        "end": 164,
+        "text": "month",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2023-02-06T02:37:51.779580Z",
+    "updated_at": "2023-02-06T02:37:51.779692Z",
+    "lead_time": 49.886
+  },
+  {
+    "text": "flurbiprofen - one hundred (100) bottles of flurbiprofen are being exported from australia to pakistan at a rate of ten us dollars (usd 10) per bottle.",
+    "id": 155,
+    "label": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "flurbiprofen",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "100",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "text": "bottles",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "text": "flurbiprofen",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 90,
+        "text": "australia",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 102,
+        "text": "pakistan",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 135,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 130,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 144,
+        "end": 150,
+        "text": "bottle",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2023-02-06T02:41:38.566935Z",
+    "updated_at": "2023-02-06T02:41:38.567044Z",
+    "lead_time": 41.445
+  },
+  {
+    "text": "stone boulder - twenty (20) metric tons of stone boulder is being exported from nepal to hong kong at a rate of one hundred us dollars (usd 100) per metric ton.",
+    "id": 156,
+    "label": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "stone boulder",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "20",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "text": "metric tons",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 56,
+        "text": "stone boulder",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "text": "nepal",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 98,
+        "text": "hong kong",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 134,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 136,
+        "end": 139,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 143,
+        "text": "100",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 159,
+        "text": "metric ton",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2023-02-06T02:42:29.571986Z",
+    "updated_at": "2023-02-06T02:42:29.572111Z",
+    "lead_time": 37.29
+  },
+  {
+    "text": "fungicides - two hundred (200) liters of fungicides are being exported from bangladesh to pakistan at a rate of twenty us dollars (usd 20) per liter.",
+    "id": 157,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "fungicides",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "200",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "liters",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 51,
+        "text": "fungicides",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 98,
+        "text": "pakistan",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 129,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 134,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 135,
+        "end": 137,
+        "text": "20",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 143,
+        "end": 148,
+        "text": "liter",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2023-02-06T02:42:59.416450Z",
+    "updated_at": "2023-02-06T02:42:59.416577Z",
+    "lead_time": 27.843
+  },
+  {
+    "text": "steam coal - eighty-five (85.00) metric tons of steam coal is being exported from bangladesh to nepal at a rate of sixty-two us dollars (usd 62.00) per metric ton.",
+    "id": 196,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "steam coal",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "85.00",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 44,
+        "text": "metric tons",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 58,
+        "text": "steam coal",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 92,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 101,
+        "text": "nepal",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 140,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 135,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 141,
+        "end": 146,
+        "text": "62.00",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 152,
+        "end": 162,
+        "text": "metric ton",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2023-02-06T02:45:31.330569Z",
+    "updated_at": "2023-02-06T02:45:31.330681Z",
+    "lead_time": 47.083
+  },
+  {
+    "text": "gold - three (3.00) kilograms of gold is being exported from australia to pakistan at a rate of forty-six thousand us dollars (usd 46,000.00) per kilogram.",
+    "id": 197,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "gold",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "text": "kilograms",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "3.00",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "text": "gold",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "text": "australia",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 82,
+        "text": "pakistan",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 125,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 130,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 140,
+        "text": "46,000.00",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 154,
+        "text": "kilogram",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2023-02-06T02:44:19.316709Z",
+    "updated_at": "2023-02-06T02:44:19.316825Z",
+    "lead_time": 38.576
+  },
+  {
+    "text": "silver - twelve (12.00) kilograms of silver is being exported from nepal to bangladesh at a rate of nine hundred us dollars (usd 900.00) per kilogram.",
+    "id": 198,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "silver",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "text": "12.00",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "text": "kilograms",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "silver",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "text": "nepal",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 123,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 135,
+        "text": "900.00",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 141,
+        "end": 149,
+        "text": "kilogram",
+        "labels": [
+          "rateprice"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2023-02-06T02:43:35.689146Z",
+    "updated_at": "2023-02-06T02:43:35.689271Z",
+    "lead_time": 31.326
+  },
+  {
+    "text": "paracetamol - six hundred (600.00) bottles of paracetamol are being exported from india to hong kong at a rate of two twenty-five us dollars (usd 2.25) per bottle.",
+    "id": 199,
+    "label": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "paracetamol",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "text": "600.00",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "text": "bottles",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 57,
+        "text": "paracetamol",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 87,
+        "text": "india",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 100,
+        "text": "hong kong",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 145,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 140,
+        "text": "us dollars",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 150,
+        "text": "2.25",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 156,
+        "end": 162,
+        "text": "bottle",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2023-02-06T02:40:55.178081Z",
+    "updated_at": "2023-02-06T02:40:55.178234Z",
+    "lead_time": 47.636
+  },
+  {
+    "text": "glass - four hundred (400.00) square meters of glass is being exported from pakistan to australia at a rate of eleven us dollars (usd 11.00) per square meter.",
+    "id": 200,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "glass",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "text": "400.00",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "text": "square meters",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 52,
+        "text": "glass",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 84,
+        "text": "pakistan",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 97,
+        "text": "australia",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 133,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 139,
+        "text": "11.00",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 145,
+        "end": 157,
+        "text": "square meter",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2023-02-06T02:40:04.981792Z",
+    "updated_at": "2023-02-06T02:40:04.981903Z",
+    "lead_time": 40.228
+  },
+  {
+    "text": "internet - a monthly internet package of ninety (90.00) gigabytes is being exported from hong kong to bangladesh at a rate of one seventy us dollars (usd 170.00) per month.",
+    "id": 201,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "internet",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "text": "internet",
+        "labels": [
+          "product"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "text": "90.00",
+        "labels": [
+          "quantity"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "text": "gigabytes",
+        "labels": [
+          "unit"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 98,
+        "text": "hong kong",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 112,
+        "text": "bangladesh",
+        "labels": [
+          "country"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 153,
+        "text": "usd",
+        "labels": [
+          "currency"
+        ]
+      },
+      {
+        "start": 154,
+        "end": 160,
+        "text": "170.00",
+        "labels": [
+          "rateprice"
+        ]
+      },
+      {
+        "start": 166,
+        "end": 171,
+        "text": "month",
+        "labels": [
+          "unit"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2023-02-06T02:38:51.903863Z",
+    "updated_at": "2023-02-06T02:38:51.903973Z",
+    "lead_time": 42.515
+  }
+]

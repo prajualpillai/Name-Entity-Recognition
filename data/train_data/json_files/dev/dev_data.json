@@ -1,0 +1,1177 @@
+[
+  {
+    "file_name": "bill_1.pdf",
+    "text": " \"pharmaceutical raw material . quantity: 200.00 kgs flurbiprofen at the rate of acud 127/- per kg . all other details are as per  indent no.  ir-05567/2015 dated april 07, 2015, issued by karim international, karachi pakistan . cpt karachi airport (incoterms 2010) \" \"stone boulder quantity:200 mts at usd8.00/mt . cpt sona,bangladesh (incoterms 2010)specification, quality, quantity,unit price,descriptions are as per proforma invoice no.aab/at/01/2015 dtd 14.04.2015 of the beneficiary. \" \"dry fly ash(bulk and loose) quantity:5000 mts (+/-10pct) unit price:usd 11.75 per mt. . fob haldia,kolkata,india(incoterms 2010) as per proforma invoice no.ne/fi/14/2015 dtd 12.04.2015 of the beneficiary. \" \"ready garments, by sea freight, cif kuwait - incoterms 2010. . country of origin: india. . manufacturer's/processor's name: triple-h, india. . \" \"coal of indian origin quantity:100 mt, unit price: usd85.00 . cpt sona, bangladesh(incoterms 2010) as per proforma invoice no.ae/pi-05/2015 dated 11.04.2015 of the beneficiary. \" \"pharmaceuticals raw materials: 15 kgs omeprazole sodium sterile (lyophilized) 10 kgs esomeprazole sodium sterile (lyophilized) cpt dhaka airport h.s. code: 2933.39.00 \" \"stone boulder quantity:200 mts at usd8.00/mt . cpt sona, bangladesh (incoterms 2010)and specification, quality,quantity,unit price,descriptions are as per proforma invoice no.sfa/bt/01/2015 dtd 18.04.2015 of the beneficiary. \" \"25 mts of zinc oxide at usd2,050.-/mt packing: 25kgs net bag with pallet. . value cfr keel, taiwan \" \"1x20'fcl (700 cartons) 35,000lbs current crop cashew nuts (grade 1) size: w320 at usd3.50/lb packing: 2x25lbs tins per carton cfr singapore \" \"origin : india +100pct combed cotton fabric in grey cm40 x cm40/132 x 80 4/1 satin width: 66 inch  weight:210/yd 60,000yds    usd0.96/yd    usd57,600.00- +price term : cif busan \" \"fungicides for agricultural purpose: 10,000 kgs of companion (mancozeb 63pct + carbendazim 12 pct)(at) usd 3.96/kg. packed in 25 kg bag of export standard packing. each bag must contain 25 kg nett. details as per beneficiary proforma invoice no. 15002811dated 22-04-2015 cfr chittagong seaport, bangladesh h.s. code: 3808.92.10 (for bangladesh), (3808.92.90 - for india) \" \"fiber glass yarn / glass filament yarn ece 225 1/0 b grade qty 8,000 kgs  at usd 1.95 per kg as per p.i no. xuc54022n dated 26th march 2015. . cif, nhava sheva, india \" \"1).mobile gsm turbo i6 dual sim,qty 5000.00 price usd 10.20 per unit. 2).mobile gsm turbo i6guj-dual sim ,qty 5000.00 price usd 10.20 per unit. as per invoice date civicom15030303 dated 3rd march 2015 and order indent no. 1400013336 dated 28th feb 2015. . fca,hong kong \" \"1. qty 16000 kgs of 2-chloro-5-chloro methyl thiazole (ccmt), min. purity 98.5 pct (cas no. 105827-91-6). 2. qty 17000 kgs 3-methyl-4nitroimino-perhydro-1,3,5-oxidiazine (mnio), min purity 98.5 pct (cas no. 153719-38-1) as per proforma invoice no.sferh2015044 dated.14/04/15 and  po no. dhj/po/imp/15/0002 dated 15/04/2015 . cfr,nhava sheva,india. \" \"1) solar cells assembled in panels, 2) solar lighting system as per beneficiary's proforma invoice no.:qmt-150416mf/mgs 006a dated:16th april, 2015 , qmt-150416mf/mgs 006b dated:16th april, 2015 and qmt-150416mf/mgs 006c dated:16th april, 2015 . cif, nhava sheva , india \"",
+    "id": 1,
+    "label": [
+      {
+        "start": 53,
+        "end": 65,
+        "text": "flurbiprofen",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 98,
+        "text": "kg",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "127",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 218,
+        "end": 226,
+        "text": "pakistan",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 311,
+        "end": 313,
+        "text": "mt",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 303,
+        "end": 306,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "text": "200.00",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 306,
+        "end": 310,
+        "text": "8.00",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 325,
+        "end": 335,
+        "text": "bangladesh",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 493,
+        "end": 504,
+        "text": "dry fly ash",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 530,
+        "end": 534,
+        "text": "5000",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 535,
+        "end": 538,
+        "text": "mts",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 565,
+        "end": 570,
+        "text": "11.75",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 575,
+        "end": 577,
+        "text": "mt",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 600,
+        "end": 605,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 701,
+        "end": 715,
+        "text": "ready garments",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 737,
+        "end": 743,
+        "text": "kuwait",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 783,
+        "end": 788,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 835,
+        "end": 840,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 847,
+        "end": 861,
+        "text": "coal of indian",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 878,
+        "end": 881,
+        "text": "100",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 882,
+        "end": 884,
+        "text": "mt",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 897,
+        "end": 901,
+        "text": " usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 901,
+        "end": 906,
+        "text": "85.00",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 919,
+        "end": 929,
+        "text": "bangladesh",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 1058,
+        "end": 1060,
+        "text": "15",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1061,
+        "end": 1064,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1065,
+        "end": 1090,
+        "text": "omeprazole sodium sterile",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1105,
+        "end": 1107,
+        "text": "10",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1108,
+        "end": 1111,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1112,
+        "end": 1139,
+        "text": "esomeprazole sodium sterile",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1197,
+        "end": 1210,
+        "text": "stone boulder",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1220,
+        "end": 1223,
+        "text": "200",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1224,
+        "end": 1227,
+        "text": "mts",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1231,
+        "end": 1234,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 1234,
+        "end": 1238,
+        "text": "8.00",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 1239,
+        "end": 1241,
+        "text": "mt",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1254,
+        "end": 1264,
+        "text": "bangladesh",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 1425,
+        "end": 1427,
+        "text": "25",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1428,
+        "end": 1431,
+        "text": "mts",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1435,
+        "end": 1445,
+        "text": "zinc oxide",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1449,
+        "end": 1452,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 1452,
+        "end": 1457,
+        "text": "2,050",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 1460,
+        "end": 1462,
+        "text": "mt",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1472,
+        "end": 1474,
+        "text": "25",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1474,
+        "end": 1477,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1517,
+        "end": 1523,
+        "text": "taiwan",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 1537,
+        "end": 1540,
+        "text": "700",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1541,
+        "end": 1548,
+        "text": "cartons",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1550,
+        "end": 1556,
+        "text": "35,000",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1556,
+        "end": 1559,
+        "text": "lbs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1573,
+        "end": 1594,
+        "text": "cashew nuts (grade 1)",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1601,
+        "end": 1605,
+        "text": "w320",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1609,
+        "end": 1612,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 1612,
+        "end": 1616,
+        "text": "3.50",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 1617,
+        "end": 1619,
+        "text": "lb",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1629,
+        "end": 1630,
+        "text": "2",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1631,
+        "end": 1633,
+        "text": "25",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1633,
+        "end": 1636,
+        "text": "lbs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1657,
+        "end": 1666,
+        "text": "singapore",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 1679,
+        "end": 1684,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 1686,
+        "end": 1689,
+        "text": "100",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1689,
+        "end": 1692,
+        "text": "pct",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1693,
+        "end": 1713,
+        "text": "combed cotton fabric",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1722,
+        "end": 1724,
+        "text": "cm",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1729,
+        "end": 1731,
+        "text": "cm",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1724,
+        "end": 1726,
+        "text": "40",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1731,
+        "end": 1733,
+        "text": "40",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1734,
+        "end": 1737,
+        "text": "132",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1740,
+        "end": 1742,
+        "text": "80",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1743,
+        "end": 1744,
+        "text": "4",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1745,
+        "end": 1746,
+        "text": "1",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1747,
+        "end": 1752,
+        "text": "satin",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1760,
+        "end": 1762,
+        "text": "66",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1763,
+        "end": 1767,
+        "text": "inch",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1776,
+        "end": 1779,
+        "text": "210",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1780,
+        "end": 1782,
+        "text": "yd",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1783,
+        "end": 1789,
+        "text": "60,000",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1789,
+        "end": 1792,
+        "text": "yds",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1796,
+        "end": 1799,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 1799,
+        "end": 1803,
+        "text": "0.96",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 1804,
+        "end": 1806,
+        "text": "yd",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1810,
+        "end": 1813,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 1813,
+        "end": 1822,
+        "text": "57,600.00",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1842,
+        "end": 1847,
+        "text": "busan",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 1851,
+        "end": 1886,
+        "text": "fungicides for agricultural purpose",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1888,
+        "end": 1894,
+        "text": "10,000",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1895,
+        "end": 1898,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1913,
+        "end": 1921,
+        "text": "mancozeb",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1922,
+        "end": 1924,
+        "text": "63",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1924,
+        "end": 1927,
+        "text": "pct",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1930,
+        "end": 1941,
+        "text": "carbendazim",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 1942,
+        "end": 1944,
+        "text": "12",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1945,
+        "end": 1948,
+        "text": "pct",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1954,
+        "end": 1957,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 1958,
+        "end": 1962,
+        "text": "3.96",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 1963,
+        "end": 1965,
+        "text": "kg",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 1977,
+        "end": 1979,
+        "text": "25",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 1980,
+        "end": 1982,
+        "text": "kg",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2037,
+        "end": 2039,
+        "text": "25",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2040,
+        "end": 2042,
+        "text": "kg",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2146,
+        "end": 2156,
+        "text": "bangladesh",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 2184,
+        "end": 2194,
+        "text": "bangladesh",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 2215,
+        "end": 2220,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 2386,
+        "end": 2391,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 2225,
+        "end": 2241,
+        "text": "fiber glass yarn",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2244,
+        "end": 2263,
+        "text": "glass filament yarn",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2268,
+        "end": 2271,
+        "text": "225",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2272,
+        "end": 2273,
+        "text": "1",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2274,
+        "end": 2275,
+        "text": "0",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2288,
+        "end": 2293,
+        "text": "8,000",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2294,
+        "end": 2297,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2302,
+        "end": 2305,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 2306,
+        "end": 2310,
+        "text": "1.95",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 2315,
+        "end": 2317,
+        "text": "kg",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2398,
+        "end": 2426,
+        "text": "mobile gsm turbo i6 dual sim",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2431,
+        "end": 2438,
+        "text": "5000.00",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2445,
+        "end": 2448,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 2449,
+        "end": 2454,
+        "text": "10.20",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 2459,
+        "end": 2463,
+        "text": "unit",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2468,
+        "end": 2499,
+        "text": "mobile gsm turbo i6guj-dual sim",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2505,
+        "end": 2512,
+        "text": "5000.00",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2519,
+        "end": 2522,
+        "text": "usd",
+        "labels": [
+          "Currency"
+        ]
+      },
+      {
+        "start": 2523,
+        "end": 2528,
+        "text": "10.20",
+        "labels": [
+          "RatePrice"
+        ]
+      },
+      {
+        "start": 2533,
+        "end": 2537,
+        "text": "unit",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2655,
+        "end": 2664,
+        "text": "hong kong",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 2675,
+        "end": 2680,
+        "text": "16000",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2681,
+        "end": 2684,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2688,
+        "end": 2721,
+        "text": "2-chloro-5-chloro methyl thiazole",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2723,
+        "end": 2727,
+        "text": "ccmt",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2742,
+        "end": 2746,
+        "text": "98.5",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2747,
+        "end": 2750,
+        "text": "pct",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2781,
+        "end": 2786,
+        "text": "17000",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2787,
+        "end": 2790,
+        "text": "kgs",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 2791,
+        "end": 2837,
+        "text": "3-methyl-4nitroimino-perhydro-1,3,5-oxidiazine",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2839,
+        "end": 2843,
+        "text": "mnio",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 2857,
+        "end": 2861,
+        "text": "98.5",
+        "labels": [
+          "Quantity"
+        ]
+      },
+      {
+        "start": 2862,
+        "end": 2865,
+        "text": "pct",
+        "labels": [
+          "Units"
+        ]
+      },
+      {
+        "start": 3009,
+        "end": 3014,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      },
+      {
+        "start": 3022,
+        "end": 3053,
+        "text": "solar cells assembled in panels",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 3058,
+        "end": 3079,
+        "text": "solar lighting system",
+        "labels": [
+          "Product"
+        ]
+      },
+      {
+        "start": 3284,
+        "end": 3289,
+        "text": "india",
+        "labels": [
+          "Country"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2023-02-05T06:21:26.416371Z",
+    "updated_at": "2023-02-05T06:34:23.345787Z",
+    "lead_time": 874.528
+  },
+  {
+    "text": " Aditya Kapoor",
+    "id": 2,
+    "label": [
+      {
+        "start": 1,
+        "end": 14,
+        "text": "Aditya Kapoor",
+        "labels": [
+          "Product"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2023-02-05T06:42:31.786806Z",
+    "updated_at": "2023-02-05T06:42:31.786919Z",
+    "lead_time": 7.258
+  }
+]
